@@ -98,15 +98,18 @@ Online Courses:
 
 DataCamp’s "Introduction to NumPy"
 Coursera’s "Data Science: Foundations using R" (includes NumPy)
+
 Practice Platforms:
 
-LeetCode
+LeetCode_
 HackerRank (NumPy-specific problems)
 Kaggle (datasets for practical application)
 
 Tips
 
 Stay Consistent: Dedicate the full 3 hours each day to studying and practicing.
+
 Hands-On Practice: Focus on applying what you learn to practical exercises and projects.
 Seek Support: Utilize online forums or study groups if you encounter challenges.
+
 This schedule provides a focused approach to mastering NumPy over 14 days, ensuring a thorough understanding of its capabilities and applications.
